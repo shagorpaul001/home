@@ -1,0 +1,289 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/* header start */
+	.s_h1 {
+    	font-size: 25px;
+    	padding: 0 0px 0 0px;
+    	text-align: center;
+	}
+	.s_p {
+    	padding: 8px 0px 5px 0px;
+    	text-align: center;
+	}
+	.btn_link {
+    	margin: 0 auto;
+	}
+	/* deparment start */
+	.d_h1 {
+    	font-size: 25px;
+	}
+	.d_p {
+    	padding: 0 0px 40px 0px !important;
+	}
+	/* online start */
+	.online {
+    	padding: 0px;
+    	width: 295px;
+    	height: 370px;
+	}
+	.colum{
+		padding-bottom: 20px;
+	}
+	.online_E {
+   		padding: 0px;
+    	width: 295px;
+    	height: 370px;
+	}
+	.online_D {
+   		padding: 0px;
+    	width: 295px;
+    	height: 370px;
+	}
+	/* litimiess start */
+	.p_text {
+    	text-align: center;
+	}
+	.p_h2 {
+		padding-top:20px;
+    	font-size: 27px;
+	}
+	.p_p {
+   		font-size: 13px;
+	}
+	.stud {
+    	padding-right: 28px;
+	}
+	/* around start */
+	.a_h2 {
+    	font-size: 24px;
+	}
+	.test {
+    	width: 295px;
+    	height: 325px;
+	}
+	/* header start */
+	.edu ul li a {
+    	padding: 60px 0 0px 0;
+    	font-size: 25px;
+	}
+	/* footer start */
+	.f_h2 {
+    	padding-bottom: 17px;
+    	font-size: 17px;
+	}
+	.form-control {
+		width: 95%;
+    	position: relative;
+	}
+	.btn_f {
+    	width: 83px;
+    	position: absolute;
+    	left: 222px;
+	}
+	/* footer end */
+	.edu {
+    	padding: 1px 0 0px 0;
+	}
+	.fd_items ul li a {
+    	padding-right: 15px;
+    	text-align: center;
+	}
+	.agen {
+    	font-size: 15px;
+	}
+	.fd_titel {
+    	text-align: center;
+	}
+
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/* department start */
+	.s_h1 {
+    	font-size: 40px;
+    	padding: 0 235px 0 0px;
+	}
+	.s_p {
+    	font-size: 18px;
+    	padding: 0 340px 5px 0px;
+	}
+	.s_item {
+    	margin: 30px 0 165px;
+	}
+	.online {
+    	padding: 0px;
+    	width: 230px;
+    	height: 290px;
+	}
+	.d_h2 {
+    	font-size: 21px;
+	}
+	.online_E {
+    	padding: 0px;
+    	width: 230px;
+    	height: 290px;
+	}
+	.online_D {
+    	padding: 0px;
+    	width: 230px;
+    	height: 290px;
+	}
+	/* poss start */
+	.p_img img {
+    	padding: 30px;
+	}
+	.p_text {
+		text-align: center;
+    	padding-top: 50px;
+	}
+	.p_h2 {
+    	font-size: 37px;
+	}
+	/* around start */
+
+
+
+	.test {
+    	width: 335px;
+    	height: 355px;
+	}
+	/* footer top start */
+	.edu {
+    	padding: 70px 0 0px 0;
+	}
+	.edu ul li a {
+    	padding: 60px 10px 0px 0px;
+    	font-size: 16px;
+	}
+	/* footer start */
+	footer {
+    	text-align: center;
+	}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/* header start */
+	.menu ul li a {
+    	margin: 0 10px !important;
+	}
+	/* banner start */
+	.d_h1 {
+    	font-size: 35px;
+	}
+	.d_p {
+    	padding: 0 0px 40px 0px !important;
+	}
+	.s_h1 {
+    	font-size: 33px;
+	}
+	.s_p {
+    	font-size: 14px;
+	}
+	/* department start */
+	.online {
+    	padding: 0px;
+    	width: 305px;
+    	height: 380px;
+	}
+	.online_E {
+    	padding: 0px;
+    	width: 305px;
+    	height: 380px;
+	}
+	.online_D {
+    	padding: 0px;
+    	width: 305px;
+    	height: 380px;
+	}
+	/* lititless start */
+	.p_h2 {
+    	font-size: 36px;
+	}
+	.p_p {
+		padding: 0px 0px 10px 0px;
+    	font-size: 14px;
+	}
+	.stud {
+    	padding-right: 53px;
+	}
+	.s_h2 {
+    	font-size: 35px;
+	}
+	.h_p {
+    	font-size: 18px;
+	}
+	.s_h3 {
+    	font-size: 35px;
+	}
+	.h_pp {
+    	font-size: 18px;
+	}
+	.s_h4 {
+    	font-size: 35px;
+	}
+	.h_pd {
+    	font-size: 18px;
+	}
+	/* around start */
+	.a_h2 {
+    	font-size: 35px;
+	}
+	.test {
+    	width: 216px;
+    	height: 275px;
+	}
+	.a_text {
+    	padding: 20px 0px 0px 10px;
+	}
+	.a_h4 {
+    	font-size: 14px;
+	}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*Extra	Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	/* banner start */
+	.s_h1 {
+    	padding: 0px 146px 0 0px;
+	}
+	.s_p {
+    	padding: 0 230px 0px 0px;
+	}
+	/* deparment start */
+	.online {
+    	padding: 20px;
+    	width: 415px;
+    	height: 470px;
+	}
+	.online_E {
+    	padding: 20px;
+    	width: 413px;
+    	height: 470px;
+	}
+	.online_D {
+    	padding: 20px;
+    	width: 412px;
+    	height: 470px;
+	}
+	/* around start */
+	.test {
+    	width: 305px;
+    	height: 335px;
+	}
+}
